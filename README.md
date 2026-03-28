@@ -51,10 +51,19 @@ Improved data handling and preprocessing pipeline
 📌 Use Case
 
 This system helps farmers and agricultural planners:
-
 Choose the right crop for their soil
 Optimize fertilizer usage
 Improve yield and reduce resource wastage
-🔒 Note
 
+🔒 Note
 This project is inspired by open-source implementations and enhanced with additional features and improvements.
+
+## 📸 Screenshots
+
+<img src="images/image1.png" width="600"/>
+<img src="images/image2.png" width="600"/>
+<img src="images/image3.png" width="600"/>
+<img src="images/image4.png" width="600"/>
+<img src="images/image5.png" width="600"/>
+<img src="images/image6.png" width="600"/>
+<img src="images/image7.png" width="600"/>
